@@ -1,7 +1,7 @@
 To Do
 
 * Change navbar text color
-* Image uploads using AWS
+* Add location and date range to listing
 * Add user model
 * Install Devise 
 * Custom devise forms and alerts 

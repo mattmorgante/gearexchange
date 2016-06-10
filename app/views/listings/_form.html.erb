@@ -24,6 +24,16 @@
     <%= f.text_field :price, class: "form-control" %>
   </div>
   <div class="form-group">
+    <h5><strong>Where can this gear be picked up?</strong> </h5>
+    <%= f.text_field :location, class: "form-control" %>
+  </div>
+  <div class="form-group">
+    <h5><strong>When is the last day this gear can be picked up?</strong></h5>
+    <%= f.date_select(:date, :order => [:month, :day, :year]) %>
+  </div>
+
+  <div class="form-group">
+    <%=f.label :image %>
     <%= f.file_field :image %>
   </div>
   <div class="form-group">
