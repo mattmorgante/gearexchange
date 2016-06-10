@@ -1,6 +1,7 @@
 To Do
 
 * Change navbar text color
+* Image uploads using AWS
 * Add user model
 * Install Devise 
 * Custom devise forms and alerts 

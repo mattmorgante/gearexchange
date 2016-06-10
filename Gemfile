@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 gem 'paperclip'
 gem 'awesome_print'
-gem 'aws-sdk'
+gem 'aws-sdk' '~> 2.3'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 gem 'bootstrap-sass'
