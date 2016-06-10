@@ -1,10 +1,9 @@
 To Do
 
-* Add Navbar via Bootstrap 
-* Make forms beautiful 
-* Install paperclip 
+* Change navbar text color
+* Add user model
 * Install Devise 
 * Custom devise forms and alerts 
-
+* Validate users and listing data 
 * Design Layout 
 * Hots images on dropbox
