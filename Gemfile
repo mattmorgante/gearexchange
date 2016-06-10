@@ -5,8 +5,9 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 gem 'paperclip'
 gem 'awesome_print'
+gem 'aws-sdk'
 # Use sqlite3 as the database for Active Record
-gem 'sqlite3'
+gem 'pg'
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
