@@ -5,7 +5,7 @@ Rails.application.configure do
   config.action_mailer.default_url_options = { :host => 'murmuring-coast-88952.herokuapp.com' }
   config.cache_classes = true
   config.paperclip_defaults = { 
-    storage: s3, 
+    storage: :s3, 
     s3_credentials: {
       bucket: ENV.fetch('S3_BUCKET_NAME'),
       access_key_id: ENV.fetch('AWS_ACCESS_KEY_ID'),
