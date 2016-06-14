@@ -7,7 +7,6 @@ gem 'paperclip'
 gem 'awesome_print'
 gem 'aws-sdk'
 gem 'devise'
-gem 'rails_12factor'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 gem 'bootstrap-sass'
@@ -33,6 +32,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use Unicorn as the app server
 # gem 'unicorn'
+
+gem 'rails_12factor', group: :production
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
