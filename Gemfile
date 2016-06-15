@@ -7,6 +7,8 @@ gem 'paperclip'
 gem 'awesome_print'
 gem 'aws-sdk'
 gem 'devise'
+gem 'stripe'
+gem 'figaro'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 gem 'bootstrap-sass'
