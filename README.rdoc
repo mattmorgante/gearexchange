@@ -1,8 +1,4 @@
-To Do
+This is a gear exchange marketplace
 
-* Change navbar text color
-* Some of the bootstrap alerts are in the wrong color (all are red?)
-* Design Layout 
-* Heroku app fails listings/new
-* Sign up redirects to /listing/new ??
-* Stripe works, but not integrated into the app flow
+* Currently, it is only open to friends and family members while testing is finalized.
+* If you would like an invite, please contact matthewmorgante [@] gmail.com
