@@ -5,5 +5,4 @@ To Do
 * Design Layout 
 * Heroku app fails listings/new
 * Sign up redirects to /listing/new ??
-* Past purchases 
-* Past sales 
+* Stripe works, but not integrated into the app flow
